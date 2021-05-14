@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FoodRescue</string>
+    <string name="emailLabel">Email</string>
+    <string name="passwordLabel">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="home">Home</string>
+    <string name="myList">My List</string>
+    <string name="imageThumbnail">Image Thumbnail</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="pick_up_times">Pick Up Times</string>
+    <string name="location">Location</string>
+    <string name="add_food">Add Food</string>
+</resources>
